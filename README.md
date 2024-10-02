@@ -32,7 +32,7 @@ This project was part of an engagement with a health tech startup that needed to
 The health tech startup handles sensitive medical data through handwritten forms, making it difficult to process and analyze efficiently. In addition, they use MongoDB to manage data, but needed to migrate this to Google Cloud's BigQuery to integrate it into their analytics workflow. This project involved two main tasks: parsing handwritten forms with Document AI and building a real-time pipeline for MongoDB data ingestion into BigQuery.
 
 
-![alt text](https://raw.githubusercontent.com/sumit6037/ride-service-gcp-pipeline/main/arch.png)
+![alt text](https://raw.githubusercontent.com/sumit6037/Data-Engineering-for-Health-Tech-Startup/main/arc.png)
 
 ## Data Engineering
 
